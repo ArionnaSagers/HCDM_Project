@@ -1,0 +1,352 @@
+{
+    "news.example.com": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Example News",
+      "website_url": "https://news.example.com"
+    },
+    "worldnews.example.com": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Medium",
+      "media_name": "Global News",
+      "website_url": "https://worldnews.example.com"
+    },
+    "techupdate.com": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Tech Update",
+      "website_url": "https://techupdate.com"
+    },
+    "dailyreport.org": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Daily Report",
+      "website_url": "https://dailyreport.org"
+    },
+    "localnews.net": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Local News",
+      "website_url": "https://localnews.net"
+    },
+    "financegazette.com": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 4,
+      "confidence": "Medium",
+      "media_name": "Finance Gazette",
+      "website_url": "https://financegazette.com"
+    },
+    "sportsarena.com": {
+      "bias_rating_text": "Lean Right",
+      "bias_rating_num": 1,
+      "confidence": "Medium",
+      "media_name": "Sports Arena",
+      "website_url": "https://sportsarena.com"
+    },
+    "entertainmentbuzz.net": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Low",
+      "media_name": "Entertainment Buzz",
+      "website_url": "https://entertainmentbuzz.net"
+    },
+    "healthtoday.org": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Health Today",
+      "website_url": "https://healthtoday.org"
+    },
+    "globalinsights.io": {
+      "bias_rating_text": "Left",
+      "bias_rating_num": -2,
+      "confidence": "Medium",
+      "media_name": "Global Insights",
+      "website_url": "https://globalinsights.io"
+    },
+    "politicalpulse.com": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "Medium",
+      "media_name": "Political Pulse",
+      "website_url": "https://politicalpulse.com"
+    },
+    "travelnow.net": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Travel Now",
+      "website_url": "https://travelnow.net"
+    },
+    "gadgetreview.org": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Gadget Review",
+      "website_url": "https://gadgetreview.org"
+    },
+    "culturalchronicle.com": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Medium",
+      "media_name": "Cultural Chronicle",
+      "website_url": "https://culturalchronicle.com"
+    },
+    "ecoobserver.org": {
+      "bias_rating_text": "Left",
+      "bias_rating_num": -2,
+      "confidence": "High",
+      "media_name": "Eco Observer",
+      "website_url": "https://ecoobserver.org"
+    },
+    "startupdaily.com": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Startup Daily",
+      "website_url": "https://startupdaily.com"
+    },
+    "artanddesign.net": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Low",
+      "media_name": "Art and Design",
+      "website_url": "https://artanddesign.net"
+    },
+    "sciencefocus.org": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "Medium",
+      "media_name": "Science Focus",
+      "website_url": "https://sciencefocus.org"
+    },
+    "foodieforum.com": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Foodie Forum",
+      "website_url": "https://foodieforum.com"
+    },
+    "businessinsidernews.com": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Business Insider News",
+      "website_url": "https://businessinsidernews.com"
+    },
+    "legalbriefs.org": {
+      "bias_rating_text": "Lean Right",
+      "bias_rating_num": 1,
+      "confidence": "Medium",
+      "media_name": "Legal Briefs",
+      "website_url": "https://legalbriefs.org"
+    },
+    "techtrends.net": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Tech Trends",
+      "website_url": "https://techtrends.net"
+    },
+    "celebritycentral.org": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "Medium",
+      "media_name": "Celebrity Central",
+      "website_url": "https://celebritycentral.org"
+    },
+    "vintageviews.com": {
+      "bias_rating_text": "Left",
+      "bias_rating_num": -2,
+      "confidence": "Low",
+      "media_name": "Vintage Views",
+      "website_url": "https://vintageviews.com"
+    },
+    "modernmetrics.net": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Modern Metrics",
+      "website_url": "https://modernmetrics.net"
+    },
+    "policywatch.org": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Policy Watch",
+      "website_url": "https://policywatch.org"
+    },
+    "urbannews.com": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Medium",
+      "media_name": "Urban News",
+      "website_url": "https://urbannews.com"
+    },
+    "ruralreport.net": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Rural Report",
+      "website_url": "https://ruralreport.net"
+    },
+    "weatherupdate.org": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Weather Update",
+      "website_url": "https://weatherupdate.org"
+    },
+    "economicsdaily.com": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Economics Daily",
+      "website_url": "https://economicsdaily.com"
+    },
+    "educationtoday.org": {
+      "bias_rating_text": "Left",
+      "bias_rating_num": -2,
+      "confidence": "Medium",
+      "media_name": "Education Today",
+      "website_url": "https://educationtoday.org"
+    },
+    "minuteupdates.com": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Minute Updates",
+      "website_url": "https://minuteupdates.com"
+    },
+    "colonialtimes.net": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 4,
+      "confidence": "Medium",
+      "media_name": "Colonial Times",
+      "website_url": "https://colonialtimes.net"
+    },
+    "futurismhub.org": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Futurism Hub",
+      "website_url": "https://futurismhub.org"
+    },
+    "artnewsnow.com": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Medium",
+      "media_name": "Art News Now",
+      "website_url": "https://artnewsnow.com"
+    },
+    "technologyinsider.net": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Technology Insider",
+      "website_url": "https://technologyinsider.net"
+    },
+    "globalbiz.org": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Global Biz",
+      "website_url": "https://globalbiz.org"
+    },
+    "publicaffairs.com": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "Medium",
+      "media_name": "Public Affairs",
+      "website_url": "https://publicaffairs.com"
+    },
+    "worldreporter.net": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "World Reporter",
+      "website_url": "https://worldreporter.net"
+    },
+    "sportsdailynews.org": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Sports Daily News",
+      "website_url": "https://sportsdailynews.org"
+    },
+    "medtechdigest.com": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "Medium",
+      "media_name": "MedTech Digest",
+      "website_url": "https://medtechdigest.com"
+    },
+    "originalopinions.net": {
+      "bias_rating_text": "Left",
+      "bias_rating_num": -2,
+      "confidence": "Medium",
+      "media_name": "Original Opinions",
+      "website_url": "https://originalopinions.net"
+    },
+    "communityvoice.org": {
+      "bias_rating_text": "Lean Left",
+      "bias_rating_num": -1,
+      "confidence": "High",
+      "media_name": "Community Voice",
+      "website_url": "https://communityvoice.org"
+    },
+    "societyandculture.com": {
+      "bias_rating_text": "Center",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Society and Culture",
+      "website_url": "https://societyandculture.com"
+    },
+    "internationalinsight.net": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "Medium",
+      "media_name": "International Insight",
+      "website_url": "https://internationalinsight.net"
+    },
+    "newtechfocus.org": {
+      "bias_rating_text": "Lean Right",
+      "bias_rating_num": 1,
+      "confidence": "High",
+      "media_name": "New Tech Focus",
+      "website_url": "https://newtechfocus.org"
+    },
+    "digitaltrendsbuzz.com": {
+      "bias_rating_text": "Neutral",
+      "bias_rating_num": 0,
+      "confidence": "High",
+      "media_name": "Digital Trends Buzz",
+      "website_url": "https://digitaltrendsbuzz.com"
+    },
+    "marketwatcher.net": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Market Watcher",
+      "website_url": "https://marketwatcher.net"
+    },
+    "cyberspacechronicle.org": {
+      "bias_rating_text": "Left",
+      "bias_rating_num": -2,
+      "confidence": "Medium",
+      "media_name": "Cyberspace Chronicle",
+      "website_url": "https://cyberspacechronicle.org"
+    },
+    "dailyinvestor.com": {
+      "bias_rating_text": "Right",
+      "bias_rating_num": 3,
+      "confidence": "High",
+      "media_name": "Daily Investor",
+      "website_url": "https://dailyinvestor.com"
+    }
+  }
