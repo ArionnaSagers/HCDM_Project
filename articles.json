@@ -1,0 +1,352 @@
+[
+    {
+      "title": "Breaking News: Global Trends Shape Modern Society",
+      "_id": "https://news.example.com/breaking-news-global-trends-shape-modern-society",
+      "excerpt": "Example News provides balanced, unbiased reporting on global trends that shape modern society and present a clear view of current events.",
+      "hostname": "news.example.com",
+      "source-hostname": "Example News"
+    },
+    {
+      "title": "In-Depth Analysis: Social Reforms in the 21st Century",
+      "_id": "https://worldnews.example.com/in-depth-analysis-social-reforms-in-the-21st-century",
+      "excerpt": "Global News examines progressive social reforms with a subtly left-leaning perspective, emphasizing equity and innovative policies for positive societal change.",
+      "hostname": "worldnews.example.com",
+      "source-hostname": "Global News"
+    },
+    {
+      "title": "Innovations Unveiled: The Future of Technology",
+      "_id": "https://techupdate.com/innovations-unveiled-the-future-of-technology",
+      "excerpt": "Tech Update delivers objective insights into breakthrough technologies, presenting a balanced outlook on the digital trends shaping tomorrow.",
+      "hostname": "techupdate.com",
+      "source-hostname": "Tech Update"
+    },
+    {
+      "title": "Market Outlook: Conservative Perspectives on Economic Shifts",
+      "_id": "https://dailyreport.org/market-outlook-conservative-perspectives-on-economic-shifts",
+      "excerpt": "Daily Report offers a robust, right-leaning analysis of economic trends, emphasizing traditional values and fiscal conservatism in its market commentary.",
+      "hostname": "dailyreport.org",
+      "source-hostname": "Daily Report"
+    },
+    {
+      "title": "Community Spotlight: Local Events and Civic Engagement",
+      "_id": "https://localnews.net/community-spotlight-local-events-and-civic-engagement",
+      "excerpt": "Local News brings balanced community reporting on local events and civic participation, delivering impartial stories that resonate at the neighborhood level.",
+      "hostname": "localnews.net",
+      "source-hostname": "Local News"
+    },
+    {
+      "title": "Financial Insights: Upholding Conservative Market Principles",
+      "_id": "https://financegazette.com/financial-insights-upholding-conservative-market-principles",
+      "excerpt": "Finance Gazette provides in-depth analysis with a strong conservative slant, emphasizing market stability and time-honored fiscal policies.",
+      "hostname": "financegazette.com",
+      "source-hostname": "Finance Gazette"
+    },
+    {
+      "title": "Athletic Excellence: A Competitive Look at Sports Performance",
+      "_id": "https://sportsarena.com/athletic-excellence-a-competitive-look-at-sports-performance",
+      "excerpt": "Sports Arena reviews cutting-edge sports performance and competitive dynamics, offering commentary with a lean right perspective on athletic events.",
+      "hostname": "sportsarena.com",
+      "source-hostname": "Sports Arena"
+    },
+    {
+      "title": "Celebrity Culture: Progressive Views on Entertainment Industry Trends",
+      "_id": "https://entertainmentbuzz.net/celebrity-culture-progressive-views-on-entertainment-industry-trends",
+      "excerpt": "Entertainment Buzz critiques celebrity culture through a subtly left-leaning lens, exploring how entertainment trends reflect evolving societal values.",
+      "hostname": "entertainmentbuzz.net",
+      "source-hostname": "Entertainment Buzz"
+    },
+    {
+      "title": "Medical Breakthroughs: Objective Reporting on Health Innovations",
+      "_id": "https://healthtoday.org/medical-breakthroughs-objective-reporting-on-health-innovations",
+      "excerpt": "Health Today covers the latest advances in medicine and health, delivering factual reporting and balanced insights into new healthcare innovations.",
+      "hostname": "healthtoday.org",
+      "source-hostname": "Health Today"
+    },
+    {
+      "title": "Revolutionary Perspectives: Challenging the Status Quo in Global Politics",
+      "_id": "https://globalinsights.io/revolutionary-perspectives-challenging-the-status-quo-in-global-politics",
+      "excerpt": "Global Insights offers a boldly left-leaning analysis of international relations, advocating transformative changes to address systemic social injustices.",
+      "hostname": "globalinsights.io",
+      "source-hostname": "Global Insights"
+    },
+    {
+      "title": "Policy Debates: Conservative Take on Government Intervention",
+      "_id": "https://politicalpulse.com/policy-debates-conservative-take-on-government-intervention",
+      "excerpt": "Political Pulse delivers a firm right-leaning commentary on public policies, emphasizing cautious governance and established political norms.",
+      "hostname": "politicalpulse.com",
+      "source-hostname": "Political Pulse"
+    },
+    {
+      "title": "Wanderlust Chronicles: Exploring the World with a Neutral Lens",
+      "_id": "https://travelnow.net/wanderlust-chronicles-exploring-the-world-with-a-neutral-lens",
+      "excerpt": "Travel Now provides balanced travel insights, guiding globetrotters through diverse cultures and destinations with objective, in-depth narratives.",
+      "hostname": "travelnow.net",
+      "source-hostname": "Travel Now"
+    },
+    {
+      "title": "Tech Gadgets: Unbiased Reviews and In-Depth Comparisons",
+      "_id": "https://gadgetreview.org/tech-gadgets-unbiased-reviews-and-in-depth-comparisons",
+      "excerpt": "Gadget Review offers clear, impartial evaluations of the latest tech gadgets, ensuring readers are equipped with reliable information without ideological bias.",
+      "hostname": "gadgetreview.org",
+      "source-hostname": "Gadget Review"
+    },
+    {
+      "title": "Artistic Expressions: Progressive Views on Cultural Movements",
+      "_id": "https://culturalchronicle.com/artistic-expressions-progressive-views-on-cultural-movements",
+      "excerpt": "Cultural Chronicle explores dynamic cultural movements and artistic innovation with a lean left perspective, highlighting creative progress and societal impact.",
+      "hostname": "culturalchronicle.com",
+      "source-hostname": "Cultural Chronicle"
+    },
+    {
+      "title": "Environment Under Siege: Advocacy for Ecological Reforms",
+      "_id": "https://ecoobserver.org/environment-under-siege-advocacy-for-ecological-reforms",
+      "excerpt": "Eco Observer champions bold environmental reforms with a strongly leftist angle, drawing attention to climate crisis issues and advocating for sustainable practices.",
+      "hostname": "ecoobserver.org",
+      "source-hostname": "Eco Observer"
+    },
+    {
+      "title": "Innovation on the Rise: The Startup Revolution Explained",
+      "_id": "https://startupdaily.com/innovation-on-the-rise-the-startup-revolution-explained",
+      "excerpt": "Startup Daily delivers an objective look at the thriving startup ecosystem, balancing enthusiasm for innovation with practical business insights.",
+      "hostname": "startupdaily.com",
+      "source-hostname": "Startup Daily"
+    },
+    {
+      "title": "Creative Renaissance: Modern Trends in Art and Design",
+      "_id": "https://artanddesign.net/creative-renaissance-modern-trends-in-art-and-design",
+      "excerpt": "Art and Design offers a progressive critique on contemporary aesthetics, spotlighting emerging trends and creative movements from a lean left viewpoint.",
+      "hostname": "artanddesign.net",
+      "source-hostname": "Art and Design"
+    },
+    {
+      "title": "Scientific Discoveries: A Balanced Analysis of Breakthroughs",
+      "_id": "https://sciencefocus.org/scientific-discoveries-a-balanced-analysis-of-breakthroughs",
+      "excerpt": "Science Focus delivers fact-based reporting on scientific breakthroughs, encouraging objective inquiry and providing a clear, centered perspective on research.",
+      "hostname": "sciencefocus.org",
+      "source-hostname": "Science Focus"
+    },
+    {
+      "title": "Culinary Journeys: Exploring Global Flavors Without Bias",
+      "_id": "https://foodieforum.com/culinary-journeys-exploring-global-flavors-without-bias",
+      "excerpt": "Foodie Forum takes readers on a gastronomic adventure, offering unbiased reviews and insights into world cuisines with a focus on taste and cultural exchange.",
+      "hostname": "foodieforum.com",
+      "source-hostname": "Foodie Forum"
+    },
+    {
+      "title": "Corporate Strategies: Conservative Insights on Business Trends",
+      "_id": "https://businessinsidernews.com/corporate-strategies-conservative-insights-on-business-trends",
+      "excerpt": "Business Insider News provides strong, right-leaning analysis on corporate strategies and market trends, with an emphasis on fiscal prudence and traditional business practices.",
+      "hostname": "businessinsidernews.com",
+      "source-hostname": "Business Insider News"
+    },
+    {
+      "title": "Judicial Reforms: A Cautious Approach to Legal Change",
+      "_id": "https://legalbriefs.org/judicial-reforms-a-cautious-approach-to-legal-change",
+      "excerpt": "Legal Briefs examines proposals for judicial reform with a subtle right-leaning bias, underscoring the need for maintaining legal tradition and gradual change.",
+      "hostname": "legalbriefs.org",
+      "source-hostname": "Legal Briefs"
+    },
+    {
+      "title": "Emerging Technologies: Trends Shaping Tomorrow",
+      "_id": "https://techtrends.net/emerging-technologies-trends-shaping-tomorrow",
+      "excerpt": "Tech Trends offers balanced coverage of emerging technologies, presenting unbiased insights and trends that are set to redefine the future in the digital age.",
+      "hostname": "techtrends.net",
+      "source-hostname": "Tech Trends"
+    },
+    {
+      "title": "Star Stories: Unfiltered Coverage of Hollywood’s Elite",
+      "_id": "https://celebritycentral.org/star-stories-unfiltered-coverage-of-hollywoods-elite",
+      "excerpt": "Celebrity Central delivers neutral, in-depth coverage of Hollywood’s most intriguing figures, focusing on lifestyle and entertainment without sensational bias.",
+      "hostname": "celebritycentral.org",
+      "source-hostname": "Celebrity Central"
+    },
+    {
+      "title": "Retro Revival: A Left-Leaning Take on Fashion and Culture",
+      "_id": "https://vintageviews.com/retro-revival-a-left-leaning-take-on-fashion-and-culture",
+      "excerpt": "Vintage Views offers a distinctly left-leaning critique of retro fashion trends, blending nostalgia with progressive commentary on cultural revival.",
+      "hostname": "vintageviews.com",
+      "source-hostname": "Vintage Views"
+    },
+    {
+      "title": "Data-Driven Insights: A Neutral Perspective on Modern Trends",
+      "_id": "https://modernmetrics.net/data-driven-insights-a-neutral-perspective-on-modern-trends",
+      "excerpt": "Modern Metrics delivers an impartial analysis of technology, economics, and social behavior, using data-driven insights to inform and educate its audience.",
+      "hostname": "modernmetrics.net",
+      "source-hostname": "Modern Metrics"
+    },
+    {
+      "title": "Government Oversight: Conservative Views on Public Policy",
+      "_id": "https://policywatch.org/government-oversight-conservative-views-on-public-policy",
+      "excerpt": "Policy Watch provides a critical right-leaning perspective on public policy and government oversight, defending traditional approaches within legislative frameworks.",
+      "hostname": "policywatch.org",
+      "source-hostname": "Policy Watch"
+    },
+    {
+      "title": "City Pulse: Progressive Narratives from Urban Centers",
+      "_id": "https://urbannews.com/city-pulse-progressive-narratives-from-urban-centers",
+      "excerpt": "Urban News highlights dynamic changes in metropolitan areas through progressive narratives, emphasizing urban development and social equity from a lean left viewpoint.",
+      "hostname": "urbannews.com",
+      "source-hostname": "Urban News"
+    },
+    {
+      "title": "Agricultural Insights: Neutral Reporting on Rural Affairs",
+      "_id": "https://ruralreport.net/agricultural-insights-neutral-reporting-on-rural-affairs",
+      "excerpt": "Rural Report delivers objective news on agricultural policies and rural community life, providing factual reporting that bridges urban and rural perspectives.",
+      "hostname": "ruralreport.net",
+      "source-hostname": "Rural Report"
+    },
+    {
+      "title": "Climate Watch: Unbiased Trends in Weather Patterns",
+      "_id": "https://weatherupdate.org/climate-watch-unbiased-trends-in-weather-patterns",
+      "excerpt": "Weather Update offers accurate, neutral reports on climate patterns and meteorological events, ensuring that its coverage remains factual and balanced.",
+      "hostname": "weatherupdate.org",
+      "source-hostname": "Weather Update"
+    },
+    {
+      "title": "Fiscal Realities: Right-Leaning Economic Forecasts",
+      "_id": "https://economicsdaily.com/fiscal-realities-right-leaning-economic-forecasts",
+      "excerpt": "Economics Daily delivers conservative insights into market trends and economic forecasts, championing fiscal responsibility and established economic norms.",
+      "hostname": "economicsdaily.com",
+      "source-hostname": "Economics Daily"
+    },
+    {
+      "title": "Innovating Education: Progressive Reforms in Learning",
+      "_id": "https://educationtoday.org/innovating-education-progressive-reforms-in-learning",
+      "excerpt": "Education Today advocates for groundbreaking changes in the educational landscape, promoting progressive reforms and equitable learning opportunities.",
+      "hostname": "educationtoday.org",
+      "source-hostname": "Education Today"
+    },
+    {
+      "title": "Quick Briefs: Up-to-Date, Neutral News Highlights",
+      "_id": "https://minuteupdates.com/quick-briefs-up-to-date-neutral-news-highlights",
+      "excerpt": "Minute Updates offers rapid, accurate news summaries of the day’s top stories, delivered in a clear and neutral style that keeps readers informed.",
+      "hostname": "minuteupdates.com",
+      "source-hostname": "Minute Updates"
+    },
+    {
+      "title": "Historical Perspectives: Conservative Analysis of Modern Events",
+      "_id": "https://colonialtimes.net/historical-perspectives-conservative-analysis-of-modern-events",
+      "excerpt": "Colonial Times examines current events through a historical lens, using a conservative approach to emphasize the value of tradition and legacy.",
+      "hostname": "colonialtimes.net",
+      "source-hostname": "Colonial Times"
+    },
+    {
+      "title": "Tomorrow’s World: Neutral Preview of Future Innovations",
+      "_id": "https://futurismhub.org/tomorrows-world-neutral-preview-of-future-innovations",
+      "excerpt": "Futurism Hub delivers balanced reporting on emerging trends and future technologies, offering a neutral glimpse into the innovations that will shape tomorrow.",
+      "hostname": "futurismhub.org",
+      "source-hostname": "Futurism Hub"
+    },
+    {
+      "title": "Cultural Shifts: Progressive Trends in the Art World",
+      "_id": "https://artnewsnow.com/cultural-shifts-progressive-trends-in-the-art-world",
+      "excerpt": "Art News Now covers the evolving trends in contemporary art with a progressive slant, examining how cultural shifts influence creative expression.",
+      "hostname": "artnewsnow.com",
+      "source-hostname": "Art News Now"
+    },
+    {
+      "title": "Inside Tech: Balanced Analysis of Emerging Digital Trends",
+      "_id": "https://technologyinsider.net/inside-tech-balanced-analysis-of-emerging-digital-trends",
+      "excerpt": "Technology Insider provides comprehensive, no-nonsense coverage of the digital revolution, presenting trends and insights without leaning ideologically.",
+      "hostname": "technologyinsider.net",
+      "source-hostname": "Technology Insider"
+    },
+    {
+      "title": "Corporate Maneuvers: Conservative Strategies in Global Business",
+      "_id": "https://globalbiz.org/corporate-maneuvers-conservative-strategies-in-global-business",
+      "excerpt": "Global Biz delivers a conservative analysis of international business strategies, emphasizing time-tested market principles and fiscal prudence.",
+      "hostname": "globalbiz.org",
+      "source-hostname": "Global Biz"
+    },
+    {
+      "title": "Political Dialogues: Progressive Debates on Public Policy",
+      "_id": "https://publicaffairs.com/political-dialogues-progressive-debates-on-public-policy",
+      "excerpt": "Public Affairs engages in thoughtful debate on current political issues with a lean left inclination, spotlighting transformative policy ideas and social reforms.",
+      "hostname": "publicaffairs.com",
+      "source-hostname": "Public Affairs"
+    },
+    {
+      "title": "Global Headlines: Neutral Perspectives on World Events",
+      "_id": "https://worldreporter.net/global-headlines-neutral-perspectives-on-world-events",
+      "excerpt": "World Reporter brings you unbiased international news with clear and factual reporting, ensuring a balanced view of global events.",
+      "hostname": "worldreporter.net",
+      "source-hostname": "World Reporter"
+    },
+    {
+      "title": "Athletic Insights: Conservative Views on Sports Performance",
+      "_id": "https://sportsdailynews.org/athletic-insights-conservative-views-on-sports-performance",
+      "excerpt": "Sports Daily News offers a traditional, conservative take on sports performance, emphasizing the virtues of discipline, hard work, and competitive spirit.",
+      "hostname": "sportsdailynews.org",
+      "source-hostname": "Sports Daily News"
+    },
+    {
+      "title": "Medical Innovations: Neutral Reviews of Technological Advances in Healthcare",
+      "_id": "https://medtechdigest.com/medical-innovations-neutral-reviews-of-technological-advances-in-healthcare",
+      "excerpt": "MedTech Digest reviews the latest advancements in healthcare technology with an even-handed approach, focusing on practical applications and breakthrough innovations.",
+      "hostname": "medtechdigest.com",
+      "source-hostname": "MedTech Digest"
+    },
+    {
+      "title": "Radical Perspectives: Bold Leftist Views on Societal Change",
+      "_id": "https://originalopinions.net/radical-perspectives-bold-leftist-views-on-societal-change",
+      "excerpt": "Original Opinions challenges conventional norms with bold leftist commentary, advocating for transformative societal reforms and progressive policies.",
+      "hostname": "originalopinions.net",
+      "source-hostname": "Original Opinions"
+    },
+    {
+      "title": "Local Empowerment: Progressive Narratives from Community Leaders",
+      "_id": "https://communityvoice.org/local-empowerment-progressive-narratives-from-community-leaders",
+      "excerpt": "Community Voice spotlights grassroots initiatives and progressive community efforts, highlighting stories of empowerment and local activism.",
+      "hostname": "communityvoice.org",
+      "source-hostname": "Community Voice"
+    },
+    {
+      "title": "Cultural Commentary: In-Depth Neutral Analysis of Social Trends",
+      "_id": "https://societyandculture.com/cultural-commentary-in-depth-neutral-analysis-of-social-trends",
+      "excerpt": "Society and Culture delivers fact-based insights into evolving social norms and cultural trends, presenting comprehensive analysis without ideological bias.",
+      "hostname": "societyandculture.com",
+      "source-hostname": "Society and Culture"
+    },
+    {
+      "title": "Cross-Border Strategies: Right-Leaning Analysis of Global Affairs",
+      "_id": "https://internationalinsight.net/cross-border-strategies-right-leaning-analysis-of-global-affairs",
+      "excerpt": "International Insight examines global affairs from a conservative standpoint, emphasizing strategic leadership and traditional geopolitical analysis.",
+      "hostname": "internationalinsight.net",
+      "source-hostname": "International Insight"
+    },
+    {
+      "title": "Cutting-Edge Business: Lean Right Views on Technological Disruption",
+      "_id": "https://newtechfocus.org/cutting-edge-business-lean-right-views-on-technological-disruption",
+      "excerpt": "New Tech Focus delivers a pragmatic view of technological disruption, balancing innovation with a lean right perspective that supports market-driven progress.",
+      "hostname": "newtechfocus.org",
+      "source-hostname": "New Tech Focus"
+    },
+    {
+      "title": "Digital Transformation: Unbiased Insights into Tech Developments",
+      "_id": "https://digitaltrendsbuzz.com/digital-transformation-unbiased-insights-into-tech-developments",
+      "excerpt": "Digital Trends Buzz offers impartial insights into the fast-paced world of digital innovation, ensuring that its coverage remains factual and technology-focused.",
+      "hostname": "digitaltrendsbuzz.com",
+      "source-hostname": "Digital Trends Buzz"
+    },
+    {
+      "title": "Investment Outlook: Conservative Approaches to Market Analysis",
+      "_id": "https://marketwatcher.net/investment-outlook-conservative-approaches-to-market-analysis",
+      "excerpt": "Market Watcher presents traditional, right-leaning investment strategies that emphasize time-tested market analysis and fiscal responsibility.",
+      "hostname": "marketwatcher.net",
+      "source-hostname": "Market Watcher"
+    },
+    {
+      "title": "Digital Frontiers: Leftist Critique of Online Surveillance",
+      "_id": "https://cyberspacechronicle.org/digital-frontiers-leftist-critique-of-online-surveillance",
+      "excerpt": "Cyberspace Chronicle challenges modern surveillance practices through a bold leftist critique, advocating for stronger digital privacy rights and transparency.",
+      "hostname": "cyberspacechronicle.org",
+      "source-hostname": "Cyberspace Chronicle"
+    },
+    {
+      "title": "Economic Briefing: Right-Leaning Insights for Savvy Investors",
+      "_id": "https://dailyinvestor.com/economic-briefing-right-leaning-insights-for-savvy-investors",
+      "excerpt": "Daily Investor offers insightful, conservative economic analysis designed for astute investors who value traditional market wisdom and fiscal discipline.",
+      "hostname": "dailyinvestor.com",
+      "source-hostname": "Daily Investor"
+    }
+  ]

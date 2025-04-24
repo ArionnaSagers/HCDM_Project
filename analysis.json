@@ -1,0 +1,902 @@
+[
+  {
+    "article_id": "https://news.example.com/breaking-news-global-trends-shape-modern-society",
+    "title": "Breaking News: Global Trends Shape Modern Society",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.32766562700271606,
+      "left": 0.29067322611808777,
+      "center": 0.2895066440105438,
+      "right": 0.2515426576137543,
+      "very right": 0.2174326628446579
+    },
+    "sentiment_scores": {
+      "positive": 0.06781752407550812,
+      "neutral": 0.028593499213457108,
+      "negative": 0.06652557104825974
+    }
+  },
+  {
+    "article_id": "https://worldnews.example.com/in-depth-analysis-social-reforms-in-the-21st-century",
+    "title": "In-Depth Analysis: Social Reforms in the 21st Century",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.46855252981185913,
+      "left": 0.4369884133338928,
+      "center": 0.17523163557052612,
+      "right": 0.3509063422679901,
+      "very right": 0.32020366191864014
+    },
+    "sentiment_scores": {
+      "positive": 0.02381254732608795,
+      "neutral": 0.03583870828151703,
+      "negative": 0.12764783203601837
+    }
+  },
+  {
+    "article_id": "https://techupdate.com/innovations-unveiled-the-future-of-technology",
+    "title": "Innovations Unveiled: The Future of Technology",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.07171059399843216,
+      "left": 0.05926317349076271,
+      "center": 0.061503469944000244,
+      "right": -0.025836599990725517,
+      "very right": -0.001620099414139986
+    },
+    "sentiment_scores": {
+      "positive": 0.10183142870664597,
+      "neutral": -0.06563152372837067,
+      "negative": -0.054964713752269745
+    }
+  },
+  {
+    "article_id": "https://dailyreport.org/market-outlook-conservative-perspectives-on-economic-shifts",
+    "title": "Market Outlook: Conservative Perspectives on Economic Shifts",
+    "assigned_bias": "right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.44744643568992615,
+      "left": 0.43415263295173645,
+      "center": 0.31023460626602173,
+      "right": 0.5246609449386597,
+      "very right": 0.5001795887947083
+    },
+    "sentiment_scores": {
+      "positive": 0.11536628752946854,
+      "neutral": 0.10526647418737411,
+      "negative": 0.15269795060157776
+    }
+  },
+  {
+    "article_id": "https://localnews.net/community-spotlight-local-events-and-civic-engagement",
+    "title": "Community Spotlight: Local Events and Civic Engagement",
+    "assigned_bias": "left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.19391660392284393,
+      "left": 0.1966981738805771,
+      "center": 0.15046659111976624,
+      "right": 0.12240532040596008,
+      "very right": 0.11328388750553131
+    },
+    "sentiment_scores": {
+      "positive": 0.11154249310493469,
+      "neutral": 0.009342648088932037,
+      "negative": 0.012433551251888275
+    }
+  },
+  {
+    "article_id": "https://financegazette.com/financial-insights-upholding-conservative-market-principles",
+    "title": "Financial Insights: Upholding Conservative Market Principles",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.3108663558959961,
+      "left": 0.2897973358631134,
+      "center": 0.23794041574001312,
+      "right": 0.4267052114009857,
+      "very right": 0.43090003728866577
+    },
+    "sentiment_scores": {
+      "positive": 0.1169968694448471,
+      "neutral": 0.022378338500857353,
+      "negative": 0.1294693648815155
+    }
+  },
+  {
+    "article_id": "https://sportsarena.com/athletic-excellence-a-competitive-look-at-sports-performance",
+    "title": "Athletic Excellence: A Competitive Look at Sports Performance",
+    "assigned_bias": "right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.013267505913972855,
+      "left": 0.025082699954509735,
+      "center": 0.018544582650065422,
+      "right": 0.06091146916151047,
+      "very right": 0.034735631197690964
+    },
+    "sentiment_scores": {
+      "positive": 0.16804097592830658,
+      "neutral": -0.05875919759273529,
+      "negative": 0.0896301344037056
+    }
+  },
+  {
+    "article_id": "https://entertainmentbuzz.net/celebrity-culture-progressive-views-on-entertainment-industry-trends",
+    "title": "Celebrity Culture: Progressive Views on Entertainment Industry Trends",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.3058543801307678,
+      "left": 0.2797040045261383,
+      "center": 0.15948542952537537,
+      "right": 0.2930564284324646,
+      "very right": 0.2513216733932495
+    },
+    "sentiment_scores": {
+      "positive": -0.008342315442860126,
+      "neutral": 0.007537498604506254,
+      "negative": 0.09643777459859848
+    }
+  },
+  {
+    "article_id": "https://healthtoday.org/medical-breakthroughs-objective-reporting-on-health-innovations",
+    "title": "Medical Breakthroughs: Objective Reporting on Health Innovations",
+    "assigned_bias": "left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.052055858075618744,
+      "left": 0.057873718440532684,
+      "center": 0.022900423035025597,
+      "right": -0.026437796652317047,
+      "very right": 0.0023404648527503014
+    },
+    "sentiment_scores": {
+      "positive": 0.19961072504520416,
+      "neutral": 0.00043698574882000685,
+      "negative": 0.02697228267788887
+    }
+  },
+  {
+    "article_id": "https://globalinsights.io/revolutionary-perspectives-challenging-the-status-quo-in-global-politics",
+    "title": "Revolutionary Perspectives: Challenging the Status Quo in Global Politics",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.391536146402359,
+      "left": 0.3234763443470001,
+      "center": 0.20424167811870575,
+      "right": 0.25475895404815674,
+      "very right": 0.35595202445983887
+    },
+    "sentiment_scores": {
+      "positive": 0.08806882053613663,
+      "neutral": 0.05192280933260918,
+      "negative": 0.16581664979457855
+    }
+  },
+  {
+    "article_id": "https://politicalpulse.com/policy-debates-conservative-take-on-government-intervention",
+    "title": "Policy Debates: Conservative Take on Government Intervention",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.4644261598587036,
+      "left": 0.4753805994987488,
+      "center": 0.24286235868930817,
+      "right": 0.4869188070297241,
+      "very right": 0.5277544260025024
+    },
+    "sentiment_scores": {
+      "positive": 0.05940844491124153,
+      "neutral": 0.04275156557559967,
+      "negative": 0.02775069698691368
+    }
+  },
+  {
+    "article_id": "https://travelnow.net/wanderlust-chronicles-exploring-the-world-with-a-neutral-lens",
+    "title": "Wanderlust Chronicles: Exploring the World with a Neutral Lens",
+    "assigned_bias": "center",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.03481237217783928,
+      "left": 0.005958925001323223,
+      "center": 0.10626024752855301,
+      "right": 0.10544037073850632,
+      "very right": 0.08525890111923218
+    },
+    "sentiment_scores": {
+      "positive": 0.03254324570298195,
+      "neutral": -0.00900774821639061,
+      "negative": 0.011832201853394508
+    }
+  },
+  {
+    "article_id": "https://gadgetreview.org/tech-gadgets-unbiased-reviews-and-in-depth-comparisons",
+    "title": "Tech Gadgets: Unbiased Reviews and In-Depth Comparisons",
+    "assigned_bias": "center",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.08213017135858536,
+      "left": 0.16208432614803314,
+      "center": 0.220840722322464,
+      "right": 0.20158520340919495,
+      "very right": 0.17862045764923096
+    },
+    "sentiment_scores": {
+      "positive": 0.11031811684370041,
+      "neutral": 0.04605795070528984,
+      "negative": 0.128980815410614
+    }
+  },
+  {
+    "article_id": "https://culturalchronicle.com/artistic-expressions-progressive-views-on-cultural-movements",
+    "title": "Artistic Expressions: Progressive Views on Cultural Movements",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.3731016516685486,
+      "left": 0.31480133533477783,
+      "center": 0.1444157510995865,
+      "right": 0.2688262164592743,
+      "very right": 0.21488195657730103
+    },
+    "sentiment_scores": {
+      "positive": 0.08102231472730637,
+      "neutral": -0.03098824806511402,
+      "negative": 0.024307651445269585
+    }
+  },
+  {
+    "article_id": "https://ecoobserver.org/environment-under-siege-advocacy-for-ecological-reforms",
+    "title": "Environment Under Siege: Advocacy for Ecological Reforms",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.2765772044658661,
+      "left": 0.24617992341518402,
+      "center": 0.21133993566036224,
+      "right": 0.22962158918380737,
+      "very right": 0.2855720520019531
+    },
+    "sentiment_scores": {
+      "positive": 0.08286803960800171,
+      "neutral": 0.009392622858285904,
+      "negative": 0.07032574713230133
+    }
+  },
+  {
+    "article_id": "https://startupdaily.com/innovation-on-the-rise-the-startup-revolution-explained",
+    "title": "Innovation on the Rise: The Startup Revolution Explained",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.14650270342826843,
+      "left": 0.12021719664335251,
+      "center": 0.0037451342213898897,
+      "right": 0.03283977508544922,
+      "very right": 0.06801305711269379
+    },
+    "sentiment_scores": {
+      "positive": 0.15495826303958893,
+      "neutral": -0.09320596605539322,
+      "negative": 0.00670545594766736
+    }
+  },
+  {
+    "article_id": "https://artanddesign.net/creative-renaissance-modern-trends-in-art-and-design",
+    "title": "Creative Renaissance: Modern Trends in Art and Design",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.29117661714553833,
+      "left": 0.2647034227848053,
+      "center": 0.19405512511730194,
+      "right": 0.24555383622646332,
+      "very right": 0.15638914704322815
+    },
+    "sentiment_scores": {
+      "positive": 0.03537716343998909,
+      "neutral": 0.020389016717672348,
+      "negative": 0.008746101520955563
+    }
+  },
+  {
+    "article_id": "https://sciencefocus.org/scientific-discoveries-a-balanced-analysis-of-breakthroughs",
+    "title": "Scientific Discoveries: A Balanced Analysis of Breakthroughs",
+    "assigned_bias": "center",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.11782074719667435,
+      "left": 0.12612314522266388,
+      "center": 0.19614271819591522,
+      "right": 0.06241067498922348,
+      "very right": 0.07892964780330658
+    },
+    "sentiment_scores": {
+      "positive": 0.16652405261993408,
+      "neutral": -0.01866837963461876,
+      "negative": -0.013267137110233307
+    }
+  },
+  {
+    "article_id": "https://foodieforum.com/culinary-journeys-exploring-global-flavors-without-bias",
+    "title": "Culinary Journeys: Exploring Global Flavors Without Bias",
+    "assigned_bias": "right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.020013228058815002,
+      "left": 0.038575220853090286,
+      "center": 0.1718212515115738,
+      "right": 0.1860004961490631,
+      "very right": 0.12410556524991989
+    },
+    "sentiment_scores": {
+      "positive": 0.05387333407998085,
+      "neutral": -0.0025319403503090143,
+      "negative": 0.029091419652104378
+    }
+  },
+  {
+    "article_id": "https://businessinsidernews.com/corporate-strategies-conservative-insights-on-business-trends",
+    "title": "Corporate Strategies: Conservative Insights on Business Trends",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.33592459559440613,
+      "left": 0.31693482398986816,
+      "center": 0.21228860318660736,
+      "right": 0.32414939999580383,
+      "very right": 0.33379966020584106
+    },
+    "sentiment_scores": {
+      "positive": 0.0628652572631836,
+      "neutral": 0.027603553608059883,
+      "negative": 0.05700411647558212
+    }
+  },
+  {
+    "article_id": "https://legalbriefs.org/judicial-reforms-a-cautious-approach-to-legal-change",
+    "title": "Judicial Reforms: A Cautious Approach to Legal Change",
+    "assigned_bias": "right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.16987650096416473,
+      "left": 0.195326030254364,
+      "center": 0.1842212975025177,
+      "right": 0.2713591754436493,
+      "very right": 0.16584675014019012
+    },
+    "sentiment_scores": {
+      "positive": -0.015408804640173912,
+      "neutral": -0.06186016649007797,
+      "negative": 0.04526394605636597
+    }
+  },
+  {
+    "article_id": "https://techtrends.net/emerging-technologies-trends-shaping-tomorrow",
+    "title": "Emerging Technologies: Trends Shaping Tomorrow",
+    "assigned_bias": "center",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.10606420785188675,
+      "left": 0.08148358017206192,
+      "center": 0.12180493772029877,
+      "right": 0.021620649844408035,
+      "very right": 0.06417511403560638
+    },
+    "sentiment_scores": {
+      "positive": 0.04880636930465698,
+      "neutral": -0.09177945554256439,
+      "negative": -0.04023498296737671
+    }
+  },
+  {
+    "article_id": "https://celebritycentral.org/star-stories-unfiltered-coverage-of-hollywoods-elite",
+    "title": "Star Stories: Unfiltered Coverage of Hollywood\u2019s Elite",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.12982594966888428,
+      "left": 0.1163899153470993,
+      "center": 0.1427302211523056,
+      "right": 0.11840597540140152,
+      "very right": 0.16424717009067535
+    },
+    "sentiment_scores": {
+      "positive": 0.040297772735357285,
+      "neutral": 0.048834674060344696,
+      "negative": 0.0890977680683136
+    }
+  },
+  {
+    "article_id": "https://vintageviews.com/retro-revival-a-left-leaning-take-on-fashion-and-culture",
+    "title": "Retro Revival: A Left-Leaning Take on Fashion and Culture",
+    "assigned_bias": "right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.35160961747169495,
+      "left": 0.3098730742931366,
+      "center": 0.2085280865430832,
+      "right": 0.423117071390152,
+      "very right": 0.3042759597301483
+    },
+    "sentiment_scores": {
+      "positive": 0.06920596957206726,
+      "neutral": 0.039018526673316956,
+      "negative": 0.1394052654504776
+    }
+  },
+  {
+    "article_id": "https://modernmetrics.net/data-driven-insights-a-neutral-perspective-on-modern-trends",
+    "title": "Data-Driven Insights: A Neutral Perspective on Modern Trends",
+    "assigned_bias": "center",
+    "assigned_sentiment": "neutral",
+    "bias_scores": {
+      "very left": 0.1526641845703125,
+      "left": 0.13121908903121948,
+      "center": 0.22030580043792725,
+      "right": 0.11011138558387756,
+      "very right": 0.16011790931224823
+    },
+    "sentiment_scores": {
+      "positive": 0.005225980654358864,
+      "neutral": 0.1106911152601242,
+      "negative": 0.007895385846495628
+    }
+  },
+  {
+    "article_id": "https://policywatch.org/government-oversight-conservative-views-on-public-policy",
+    "title": "Government Oversight: Conservative Views on Public Policy",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.3180220127105713,
+      "left": 0.3042253255844116,
+      "center": 0.2851535975933075,
+      "right": 0.38095441460609436,
+      "very right": 0.44993317127227783
+    },
+    "sentiment_scores": {
+      "positive": 0.06875332444906235,
+      "neutral": 0.03768708184361458,
+      "negative": 0.005064103752374649
+    }
+  },
+  {
+    "article_id": "https://urbannews.com/city-pulse-progressive-narratives-from-urban-centers",
+    "title": "City Pulse: Progressive Narratives from Urban Centers",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.3948819637298584,
+      "left": 0.37387704849243164,
+      "center": 0.1065678521990776,
+      "right": 0.18620814383029938,
+      "very right": 0.14351703226566315
+    },
+    "sentiment_scores": {
+      "positive": 0.06991731375455856,
+      "neutral": 0.01552426815032959,
+      "negative": 0.04488883912563324
+    }
+  },
+  {
+    "article_id": "https://ruralreport.net/agricultural-insights-neutral-reporting-on-rural-affairs",
+    "title": "Agricultural Insights: Neutral Reporting on Rural Affairs",
+    "assigned_bias": "right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.14394353330135345,
+      "left": 0.1653926819562912,
+      "center": 0.1534249633550644,
+      "right": 0.19960986077785492,
+      "very right": 0.14107228815555573
+    },
+    "sentiment_scores": {
+      "positive": 0.09112360328435898,
+      "neutral": -0.02132793702185154,
+      "negative": 0.06058204919099808
+    }
+  },
+  {
+    "article_id": "https://weatherupdate.org/climate-watch-unbiased-trends-in-weather-patterns",
+    "title": "Climate Watch: Unbiased Trends in Weather Patterns",
+    "assigned_bias": "center",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.01833055168390274,
+      "left": 0.02269122377038002,
+      "center": 0.12295274436473846,
+      "right": 0.08596303313970566,
+      "very right": 0.04776608198881149
+    },
+    "sentiment_scores": {
+      "positive": 0.05804990604519844,
+      "neutral": 0.009787699207663536,
+      "negative": -0.004497533664107323
+    }
+  },
+  {
+    "article_id": "https://economicsdaily.com/fiscal-realities-right-leaning-economic-forecasts",
+    "title": "Fiscal Realities: Right-Leaning Economic Forecasts",
+    "assigned_bias": "left",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.29026341438293457,
+      "left": 0.3001748323440552,
+      "center": 0.21552538871765137,
+      "right": 0.2651713192462921,
+      "very right": 0.2652451992034912
+    },
+    "sentiment_scores": {
+      "positive": 0.05372795835137367,
+      "neutral": 0.0964842140674591,
+      "negative": 0.160227432847023
+    }
+  },
+  {
+    "article_id": "https://educationtoday.org/innovating-education-progressive-reforms-in-learning",
+    "title": "Innovating Education: Progressive Reforms in Learning",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.33609539270401,
+      "left": 0.32636696100234985,
+      "center": 0.04662264138460159,
+      "right": 0.1513025015592575,
+      "very right": 0.16051125526428223
+    },
+    "sentiment_scores": {
+      "positive": 0.07102171331644058,
+      "neutral": -0.08817842602729797,
+      "negative": 0.019974272698163986
+    }
+  },
+  {
+    "article_id": "https://minuteupdates.com/quick-briefs-up-to-date-neutral-news-highlights",
+    "title": "Quick Briefs: Up-to-Date, Neutral News Highlights",
+    "assigned_bias": "center",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.153262659907341,
+      "left": 0.2139464020729065,
+      "center": 0.2247125208377838,
+      "right": 0.18524552881717682,
+      "very right": 0.14747323095798492
+    },
+    "sentiment_scores": {
+      "positive": 0.2236148715019226,
+      "neutral": -0.01572856865823269,
+      "negative": 0.10309070348739624
+    }
+  },
+  {
+    "article_id": "https://colonialtimes.net/historical-perspectives-conservative-analysis-of-modern-events",
+    "title": "Historical Perspectives: Conservative Analysis of Modern Events",
+    "assigned_bias": "right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.36727094650268555,
+      "left": 0.3383803367614746,
+      "center": 0.2203020453453064,
+      "right": 0.5640853643417358,
+      "very right": 0.4675411581993103
+    },
+    "sentiment_scores": {
+      "positive": 0.05402049049735069,
+      "neutral": -0.015699218958616257,
+      "negative": 0.07637405395507812
+    }
+  },
+  {
+    "article_id": "https://futurismhub.org/tomorrows-world-neutral-preview-of-future-innovations",
+    "title": "Tomorrow\u2019s World: Neutral Preview of Future Innovations",
+    "assigned_bias": "left",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.20616300404071808,
+      "left": 0.22359579801559448,
+      "center": 0.17327189445495605,
+      "right": 0.19111952185630798,
+      "very right": 0.15907618403434753
+    },
+    "sentiment_scores": {
+      "positive": 0.10485172271728516,
+      "neutral": -0.026634888723492622,
+      "negative": 0.10789620876312256
+    }
+  },
+  {
+    "article_id": "https://artnewsnow.com/cultural-shifts-progressive-trends-in-the-art-world",
+    "title": "Cultural Shifts: Progressive Trends in the Art World",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.34333205223083496,
+      "left": 0.32085323333740234,
+      "center": 0.1060136929154396,
+      "right": 0.2526109218597412,
+      "very right": 0.14688295125961304
+    },
+    "sentiment_scores": {
+      "positive": 0.059035979211330414,
+      "neutral": -0.02397795394062996,
+      "negative": 0.005363588687032461
+    }
+  },
+  {
+    "article_id": "https://technologyinsider.net/inside-tech-balanced-analysis-of-emerging-digital-trends",
+    "title": "Inside Tech: Balanced Analysis of Emerging Digital Trends",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.25154978036880493,
+      "left": 0.21401157975196838,
+      "center": 0.20265774428844452,
+      "right": 0.09045686572790146,
+      "very right": 0.11440949887037277
+    },
+    "sentiment_scores": {
+      "positive": 0.11443863809108734,
+      "neutral": -0.046178605407476425,
+      "negative": 0.022063562646508217
+    }
+  },
+  {
+    "article_id": "https://globalbiz.org/corporate-maneuvers-conservative-strategies-in-global-business",
+    "title": "Corporate Maneuvers: Conservative Strategies in Global Business",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.22898900508880615,
+      "left": 0.17971038818359375,
+      "center": 0.18241415917873383,
+      "right": 0.29472818970680237,
+      "very right": 0.3393075466156006
+    },
+    "sentiment_scores": {
+      "positive": 0.005214690696448088,
+      "neutral": 0.004730211570858955,
+      "negative": 0.04702967032790184
+    }
+  },
+  {
+    "article_id": "https://publicaffairs.com/political-dialogues-progressive-debates-on-public-policy",
+    "title": "Political Dialogues: Progressive Debates on Public Policy",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.5088187456130981,
+      "left": 0.4887882173061371,
+      "center": 0.2671148478984833,
+      "right": 0.3715367317199707,
+      "very right": 0.38653215765953064
+    },
+    "sentiment_scores": {
+      "positive": 0.0508931465446949,
+      "neutral": 0.026623662561178207,
+      "negative": -0.0027612047269940376
+    }
+  },
+  {
+    "article_id": "https://worldreporter.net/global-headlines-neutral-perspectives-on-world-events",
+    "title": "Global Headlines: Neutral Perspectives on World Events",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.20414963364601135,
+      "left": 0.19283649325370789,
+      "center": 0.186330184340477,
+      "right": 0.1728448122739792,
+      "very right": 0.23352758586406708
+    },
+    "sentiment_scores": {
+      "positive": 0.13392724096775055,
+      "neutral": 0.03558177500963211,
+      "negative": 0.1360190510749817
+    }
+  },
+  {
+    "article_id": "https://sportsdailynews.org/athletic-insights-conservative-views-on-sports-performance",
+    "title": "Athletic Insights: Conservative Views on Sports Performance",
+    "assigned_bias": "right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.2913171052932739,
+      "left": 0.28053560853004456,
+      "center": 0.17183327674865723,
+      "right": 0.35972368717193604,
+      "very right": 0.3417973220348358
+    },
+    "sentiment_scores": {
+      "positive": 0.1406884342432022,
+      "neutral": 0.004785237368196249,
+      "negative": 0.058553069829940796
+    }
+  },
+  {
+    "article_id": "https://medtechdigest.com/medical-innovations-neutral-reviews-of-technological-advances-in-healthcare",
+    "title": "Medical Innovations: Neutral Reviews of Technological Advances in Healthcare",
+    "assigned_bias": "left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.0500870943069458,
+      "left": 0.06628984212875366,
+      "center": -0.003791897790506482,
+      "right": 0.03716966509819031,
+      "very right": 0.01882955990731716
+    },
+    "sentiment_scores": {
+      "positive": 0.08321171998977661,
+      "neutral": -0.0036800841335207224,
+      "negative": -0.006377288140356541
+    }
+  },
+  {
+    "article_id": "https://originalopinions.net/radical-perspectives-bold-leftist-views-on-societal-change",
+    "title": "Radical Perspectives: Bold Leftist Views on Societal Change",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.6445902585983276,
+      "left": 0.6086188554763794,
+      "center": 0.27550482749938965,
+      "right": 0.4828709065914154,
+      "very right": 0.4979601800441742
+    },
+    "sentiment_scores": {
+      "positive": 0.07109984010457993,
+      "neutral": 0.03832663968205452,
+      "negative": 0.1440116912126541
+    }
+  },
+  {
+    "article_id": "https://communityvoice.org/local-empowerment-progressive-narratives-from-community-leaders",
+    "title": "Local Empowerment: Progressive Narratives from Community Leaders",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.37454307079315186,
+      "left": 0.3544065058231354,
+      "center": 0.07404689490795135,
+      "right": 0.1847061812877655,
+      "very right": 0.17324987053871155
+    },
+    "sentiment_scores": {
+      "positive": 0.13046744465827942,
+      "neutral": -0.08598916977643967,
+      "negative": 0.018552549183368683
+    }
+  },
+  {
+    "article_id": "https://societyandculture.com/cultural-commentary-in-depth-neutral-analysis-of-social-trends",
+    "title": "Cultural Commentary: In-Depth Neutral Analysis of Social Trends",
+    "assigned_bias": "right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.2700083255767822,
+      "left": 0.2342604696750641,
+      "center": 0.24078302085399628,
+      "right": 0.37301379442214966,
+      "very right": 0.27992284297943115
+    },
+    "sentiment_scores": {
+      "positive": 0.043884679675102234,
+      "neutral": 0.035661231726408005,
+      "negative": 0.11546333879232407
+    }
+  },
+  {
+    "article_id": "https://internationalinsight.net/cross-border-strategies-right-leaning-analysis-of-global-affairs",
+    "title": "Cross-Border Strategies: Right-Leaning Analysis of Global Affairs",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "negative",
+    "bias_scores": {
+      "very left": 0.2907485365867615,
+      "left": 0.26089760661125183,
+      "center": 0.23080062866210938,
+      "right": 0.30032238364219666,
+      "very right": 0.35843583941459656
+    },
+    "sentiment_scores": {
+      "positive": 0.03231536224484444,
+      "neutral": 0.03596712648868561,
+      "negative": 0.07949986308813095
+    }
+  },
+  {
+    "article_id": "https://newtechfocus.org/cutting-edge-business-lean-right-views-on-technological-disruption",
+    "title": "Cutting-Edge Business: Lean Right Views on Technological Disruption",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.2204657793045044,
+      "left": 0.1942092329263687,
+      "center": 0.20009033381938934,
+      "right": 0.10040093213319778,
+      "very right": 0.1629842072725296
+    },
+    "sentiment_scores": {
+      "positive": 0.032379698008298874,
+      "neutral": -0.0069174980744719505,
+      "negative": -0.011136595159769058
+    }
+  },
+  {
+    "article_id": "https://digitaltrendsbuzz.com/digital-transformation-unbiased-insights-into-tech-developments",
+    "title": "Digital Transformation: Unbiased Insights into Tech Developments",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.11188313364982605,
+      "left": 0.10116234421730042,
+      "center": 0.09366033971309662,
+      "right": -0.02368011698126793,
+      "very right": 0.0033125539775937796
+    },
+    "sentiment_scores": {
+      "positive": 0.03933001309633255,
+      "neutral": -0.06504400819540024,
+      "negative": -0.0050091552548110485
+    }
+  },
+  {
+    "article_id": "https://marketwatcher.net/investment-outlook-conservative-approaches-to-market-analysis",
+    "title": "Investment Outlook: Conservative Approaches to Market Analysis",
+    "assigned_bias": "right",
+    "assigned_sentiment": "neutral",
+    "bias_scores": {
+      "very left": 0.2949232757091522,
+      "left": 0.28371524810791016,
+      "center": 0.22587059438228607,
+      "right": 0.3353331685066223,
+      "very right": 0.3283637762069702
+    },
+    "sentiment_scores": {
+      "positive": 0.06575677543878555,
+      "neutral": 0.1269824355840683,
+      "negative": 0.08048602193593979
+    }
+  },
+  {
+    "article_id": "https://cyberspacechronicle.org/digital-frontiers-leftist-critique-of-online-surveillance",
+    "title": "Digital Frontiers: Leftist Critique of Online Surveillance",
+    "assigned_bias": "very left",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.33534008264541626,
+      "left": 0.2977266013622284,
+      "center": 0.2616688907146454,
+      "right": 0.1784166693687439,
+      "very right": 0.25979888439178467
+    },
+    "sentiment_scores": {
+      "positive": 0.0589660108089447,
+      "neutral": -0.03562053665518761,
+      "negative": 0.04842955246567726
+    }
+  },
+  {
+    "article_id": "https://dailyinvestor.com/economic-briefing-right-leaning-insights-for-savvy-investors",
+    "title": "Economic Briefing: Right-Leaning Insights for Savvy Investors",
+    "assigned_bias": "very right",
+    "assigned_sentiment": "positive",
+    "bias_scores": {
+      "very left": 0.2658078670501709,
+      "left": 0.27006062865257263,
+      "center": 0.3106425404548645,
+      "right": 0.3357989490032196,
+      "very right": 0.3513590395450592
+    },
+    "sentiment_scores": {
+      "positive": 0.17383506894111633,
+      "neutral": 0.15677139163017273,
+      "negative": 0.15459777414798737
+    }
+  }
+]

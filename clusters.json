@@ -1,0 +1,62 @@
+{
+  "cluster_0": [
+    "https://worldnews.example.com/in-depth-analysis-social-reforms-in-the-21st-century",
+    "https://globalinsights.io/revolutionary-perspectives-challenging-the-status-quo-in-global-politics",
+    "https://originalopinions.net/radical-perspectives-bold-leftist-views-on-societal-change",
+    "https://societyandculture.com/cultural-commentary-in-depth-neutral-analysis-of-social-trends",
+    "https://cyberspacechronicle.org/digital-frontiers-leftist-critique-of-online-surveillance"
+  ],
+  "cluster_1": [
+    "https://news.example.com/breaking-news-global-trends-shape-modern-society",
+    "https://localnews.net/community-spotlight-local-events-and-civic-engagement",
+    "https://celebritycentral.org/star-stories-unfiltered-coverage-of-hollywoods-elite",
+    "https://urbannews.com/city-pulse-progressive-narratives-from-urban-centers",
+    "https://ruralreport.net/agricultural-insights-neutral-reporting-on-rural-affairs",
+    "https://weatherupdate.org/climate-watch-unbiased-trends-in-weather-patterns",
+    "https://minuteupdates.com/quick-briefs-up-to-date-neutral-news-highlights",
+    "https://worldreporter.net/global-headlines-neutral-perspectives-on-world-events",
+    "https://sportsdailynews.org/athletic-insights-conservative-views-on-sports-performance",
+    "https://communityvoice.org/local-empowerment-progressive-narratives-from-community-leaders"
+  ],
+  "cluster_2": [
+    "https://techupdate.com/innovations-unveiled-the-future-of-technology",
+    "https://entertainmentbuzz.net/celebrity-culture-progressive-views-on-entertainment-industry-trends",
+    "https://healthtoday.org/medical-breakthroughs-objective-reporting-on-health-innovations",
+    "https://travelnow.net/wanderlust-chronicles-exploring-the-world-with-a-neutral-lens",
+    "https://culturalchronicle.com/artistic-expressions-progressive-views-on-cultural-movements",
+    "https://startupdaily.com/innovation-on-the-rise-the-startup-revolution-explained",
+    "https://artanddesign.net/creative-renaissance-modern-trends-in-art-and-design",
+    "https://sciencefocus.org/scientific-discoveries-a-balanced-analysis-of-breakthroughs",
+    "https://techtrends.net/emerging-technologies-trends-shaping-tomorrow",
+    "https://vintageviews.com/retro-revival-a-left-leaning-take-on-fashion-and-culture",
+    "https://modernmetrics.net/data-driven-insights-a-neutral-perspective-on-modern-trends",
+    "https://educationtoday.org/innovating-education-progressive-reforms-in-learning",
+    "https://futurismhub.org/tomorrows-world-neutral-preview-of-future-innovations",
+    "https://artnewsnow.com/cultural-shifts-progressive-trends-in-the-art-world",
+    "https://technologyinsider.net/inside-tech-balanced-analysis-of-emerging-digital-trends",
+    "https://medtechdigest.com/medical-innovations-neutral-reviews-of-technological-advances-in-healthcare",
+    "https://newtechfocus.org/cutting-edge-business-lean-right-views-on-technological-disruption",
+    "https://digitaltrendsbuzz.com/digital-transformation-unbiased-insights-into-tech-developments"
+  ],
+  "cluster_3": [
+    "https://dailyreport.org/market-outlook-conservative-perspectives-on-economic-shifts",
+    "https://financegazette.com/financial-insights-upholding-conservative-market-principles",
+    "https://politicalpulse.com/policy-debates-conservative-take-on-government-intervention",
+    "https://ecoobserver.org/environment-under-siege-advocacy-for-ecological-reforms",
+    "https://businessinsidernews.com/corporate-strategies-conservative-insights-on-business-trends",
+    "https://legalbriefs.org/judicial-reforms-a-cautious-approach-to-legal-change",
+    "https://policywatch.org/government-oversight-conservative-views-on-public-policy",
+    "https://economicsdaily.com/fiscal-realities-right-leaning-economic-forecasts",
+    "https://colonialtimes.net/historical-perspectives-conservative-analysis-of-modern-events",
+    "https://globalbiz.org/corporate-maneuvers-conservative-strategies-in-global-business",
+    "https://publicaffairs.com/political-dialogues-progressive-debates-on-public-policy",
+    "https://internationalinsight.net/cross-border-strategies-right-leaning-analysis-of-global-affairs",
+    "https://marketwatcher.net/investment-outlook-conservative-approaches-to-market-analysis",
+    "https://dailyinvestor.com/economic-briefing-right-leaning-insights-for-savvy-investors"
+  ],
+  "cluster_4": [
+    "https://sportsarena.com/athletic-excellence-a-competitive-look-at-sports-performance",
+    "https://gadgetreview.org/tech-gadgets-unbiased-reviews-and-in-depth-comparisons",
+    "https://foodieforum.com/culinary-journeys-exploring-global-flavors-without-bias"
+  ]
+}
